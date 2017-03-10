@@ -1,0 +1,12 @@
+*.pyc
+*~
+__pycache__
+myenv1
+db.sqlite3
+/static
+.DS_Store
+pip-selfcheck.json
+bin/
+include/
+lib/
+local/
