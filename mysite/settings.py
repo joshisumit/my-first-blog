@@ -25,7 +25,7 @@ SECRET_KEY = 'o#m4x31!f&8k_b-@(ezya5=)14t7z98y$wp4c4u)r^x9%(d#y5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','sumitj.pythonanywhere.com']
 
 
 # Application definition
